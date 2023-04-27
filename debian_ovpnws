@@ -1,9 +1,9 @@
 #!/bin/bash
 #Script Variables
-HOST='185.250.107.153';
-USER='starvipapps_friends';
-PASS='starvipapps_friends';
-DBNAME='starvipapps_friends';
+HOST='170.187.231.66';
+USER='rktunnel_friendsvpn';
+PASS='rktunnel_friendsvpn';
+DBNAME='rktunnel_friendsvpn';
 PORT_TCP='1194';
 PORT_UDP='53';
 timedatectl set-timezone Asia/Riyadh
